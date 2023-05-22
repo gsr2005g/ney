@@ -1,0 +1,2 @@
+CREATE TABLE conexao (id INTEGER, nome VARCHAR (40),
+senha VARCHAR (50), PRIMARY KEY(id));
